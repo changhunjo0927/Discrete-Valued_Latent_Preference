@@ -1,4 +1,4 @@
-# Reproducing Our Simulation Results
+# Discrete-valued Preference Estimation with Graph Side Information
 We provide our Python implementation of our algorithm as well as that of (Ahn et al., 2018) so that one can easily reproduce all of our experimental results.
 One can easily reproduce any figure simply by opening the corresponding subfolder and run three or four Jupyter notebooks in order.  (Click "Run All" in each Jupyter notebook).
 Then, simulation results will be saved as a figure within the subfolder.
